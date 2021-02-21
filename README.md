@@ -1,11 +1,7 @@
 # wilsonHACK
 UofTHacks VIII
 
-Authors:
-Abinab Kumar Shresha
-Adam Stecklov
-Christina Ma
-Daniel Wijaya
+Authors: Abinab Kumar Shresha, Adam Stecklov, Christina Ma, Daniel Wijaya
 
 ## Inspiration
 
